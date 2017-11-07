@@ -1,0 +1,23 @@
+{
+  "name": "scriptingHTTP-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanastassiou/lhl-w2d1-ScriptingHTTPRequestsWithRequestPackage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanastassiou/lhl-w2d1-ScriptingHTTPRequestsWithRequestPackage/issues"
+  },
+  "homepage": "https://github.com/vanastassiou/lhl-w2d1-ScriptingHTTPRequestsWithRequestPackage#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
